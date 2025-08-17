@@ -15,7 +15,7 @@ export const actualBudgetAuth = PieceAuth.CustomAuth({
   props: {
     server_url: Property.ShortText({
       displayName: 'Server URL',
-      description: 'This is the URL of your running server',
+      description: 'This is the URL of your running server    ',
       required: true,
     }),
     password: PieceAuth.SecretText({
