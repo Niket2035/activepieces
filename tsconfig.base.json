@@ -220,6 +220,9 @@
       "@activepieces/piece-close": [
         "packages/pieces/community/close/src/index.ts"
       ],
+      "@activepieces/piece-cloudconvert": [
+        "packages/pieces/community/cloudconvert/src/index.ts"
+      ],
       "@activepieces/piece-cloudinary": [
         "packages/pieces/community/cloudinary/src/index.ts"
       ],
@@ -602,6 +605,9 @@
       "@activepieces/piece-microsoft-onedrive": [
         "packages/pieces/community/microsoft-onedrive/src/index.ts"
       ],
+      "@activepieces/piece-microsoft-onenote": [
+        "packages/pieces/community/microsoft-onenote/src/index.ts"
+      ],
       "@activepieces/piece-microsoft-outlook": [
         "packages/pieces/community/microsoft-outlook/src/index.ts"
       ],
@@ -616,9 +622,6 @@
       ],
       "@activepieces/piece-microsoft-todo": [
         "packages/pieces/community/microsoft-todo/src/index.ts"
-      ],
-      "@activepieces/piece-microsoft-onenote": [
-        "packages/pieces/community/microsoft-onenote/src/index.ts"
       ],
       "@activepieces/piece-mindee": [
         "packages/pieces/community/mindee/src/index.ts"
